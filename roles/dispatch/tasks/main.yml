@@ -1,0 +1,8 @@
+-name: import go
+  ansible.builtin.inlcdue_role:
+    name: common
+    tasks_from: go.yml
+     
+  
+
+

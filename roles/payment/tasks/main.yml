@@ -1,0 +1,6 @@
+-name: import python
+  ansible.builtin.include_role:
+     name: commom
+     tasks_from: python
+    
+
